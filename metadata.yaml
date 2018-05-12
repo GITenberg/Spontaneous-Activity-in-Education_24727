@@ -1,0 +1,29 @@
+_repo: Spontaneous-Activity-in-Education_24727
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montessori, Maria
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '26701'
+    url: http://www.gutenberg.org/2009/agents/26701
+    wikipedia:
+    - http://it.wikipedia.org/wiki/Maria_Montessori
+    - http://en.wikipedia.org/wiki/Maria_Montessori
+description: ''
+gutenberg_issued: '2008-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Montessori method of education'
+- !lcc 'LB'
+title: Spontaneous Activity in Education
+url: http://www.gutenberg.org/ebooks/24727
