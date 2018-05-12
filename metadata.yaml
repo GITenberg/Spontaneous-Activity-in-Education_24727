@@ -14,6 +14,8 @@ creator:
     - http://it.wikipedia.org/wiki/Maria_Montessori
     - http://en.wikipedia.org/wiki/Maria_Montessori
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24727#Spontaneous-Activity-in-Education
 gutenberg_issued: '2008-03-02'
 gutenberg_type: Text
 identifiers:
